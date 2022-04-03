@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/RodrigoLMarques">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLM2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLM2&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLMarques&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
