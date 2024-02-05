@@ -1,31 +1,66 @@
-## Olá, meu nome é Rodrigo Marques!
-- Desenvolvedor Full-Stack
-- Colégio UNIVAP - Curso Técnico em Informática
+<!-- Title -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+   
+---
+   
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Rodrigo! A passionate software development student from Brazil.
 
- <div>
-  <a href="https://github.com/RodrigoLMarques">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLMarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLMarques&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rodrigo-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Rodrigo-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Rodrigo-Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Rodrigo-AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
- <img align="center" alt="Rodrigo-NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
- <img align="center" alt="Rodrigo-NodeJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Rodrigo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodrigo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rodrigo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rodrigo-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rodrigo-PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rodrigo-Kotlin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-  <img align="center" alt="Rodrigo-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Rodrigo-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-</div>
- 
-<div><br/>
-  <a href = "mailto:rodrigolopes.m2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigo-marques-1981ab220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<div/>
+  - 🌱 I'm currently studying Software Development and Computer Science at Alura. <a href="https://cursos.alura.com.br/user/rodrigolopes-m2005">
+    <img align="center" alt="html5" src="https://imgs.search.brave.com/5z0jG7Fgap8NIbCVZf7wVbWH0kgiuvUcwsT2svUNKzo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YWx1cmEuY29tLmJy/L2Fzc2V0cy9pbWcv/Zm9ybWFjYW8vc3Rl/cC1hbHVyYS1tYWlz/LjE2ODY3NDQ4ODEu/c3Zn.svg" width="30" />
+</a>
+
+  - 🔭 I'm looking for opportunities. My dream is to one day develop solutions that help people with their problems.
+</p>
+
+<!-- Dropdown -->
+<details>
+    <summary>👨‍💻 More about me</summary>
+
+   - 💬 I'm 18 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. With incredible teachers and friends in the field, I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Node.js, Java, AWS, C, and FreeRTOS.
+
+   - ⚡ I enjoy reading, whether it's a good fiction or fantasy book, and also watching movies and playing games! I believe that our personal interests contribute to a more nuanced understanding of things and help in problem-solving.
+</details>
+
+<!-- Links -->
+[![E-Mail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigolopes.m2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-marques-1981ab220/)
+
+<!-- GithubStats -->
+![RodrigoLMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolmarques&show_icons=true&theme=gotham)
+![RodrigoLMarques GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLMarques&layout=compact&langs_count=7&theme=gotham)
+
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Rodrigo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Javascript" height="40" width="="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Typescript" height="40" width="="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+    <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Kotlin" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+  </div>
+  
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="Rodrigo-Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+    <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+    <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />  
+    <img align="center" alt="Rodrigo-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <img align="center" alt="Rodrigo-MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+    <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+    <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  </div>
+  
