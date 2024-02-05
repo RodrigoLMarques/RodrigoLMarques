@@ -1,7 +1,7 @@
 <!-- Title -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
    
 ---
@@ -31,9 +31,13 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-marques-1981ab220/)
 
 <!-- GithubStats -->
-![RodrigoLMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolmarques&show_icons=true&theme=gotham)
-![RodrigoLMarques GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLMarques&layout=compact&langs_count=7&theme=gotham)
+![RodrigoLMarques GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigolmarques&show_icons=true&theme=gruvbox)
+![RodrigoLMarques GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLMarques&layout=compact&langs_count=7&theme=gruvbox)
 
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt="Imagem">
+</p>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
