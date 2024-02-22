@@ -10,7 +10,7 @@
 <p>
   Hi 👋, I'm Rodrigo! A passionate software development student from Brazil.
 
-  - 🌱 I'm currently studying Computer Science at Alura. <a href="https://cursos.alura.com.br/user/rodrigolopes-m2005">
+  - 🌱 I'm currently studying Computer Engineering at Univap and Alura. <a href="https://cursos.alura.com.br/user/rodrigolopes-m2005">
     <img align="center" alt="html5" src="https://imgs.search.brave.com/5z0jG7Fgap8NIbCVZf7wVbWH0kgiuvUcwsT2svUNKzo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YWx1cmEuY29tLmJy/L2Fzc2V0cy9pbWcv/Zm9ybWFjYW8vc3Rl/cC1hbHVyYS1tYWlz/LjE2ODY3NDQ4ODEu/c3Zn.svg" width="30" />
 </a>
 
@@ -21,7 +21,7 @@
 <details>
     <summary>👨‍💻 More about me</summary>
 
-   - 💬 I'm 18 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Node.js, Python, AWS, and C.
+   - 💬 I'm 18 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Node.js, Python, AWS, and C++.
 
    - ⚡ I enjoy reading, whether it's a good fiction or fantasy book, and also watching movies and playing games! I believe that our personal interests contribute to a more nuanced understanding of things and help in problem-solving.
 </details>
@@ -43,9 +43,10 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-    <img align="center" alt="Rodrigo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Javascript" height="40" width="="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Typescript" height="40" width="="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
