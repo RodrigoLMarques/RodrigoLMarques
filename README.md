@@ -10,7 +10,7 @@
 <p>
   Hi 👋, I'm Rodrigo! A passionate software development student from Brazil.
 
-  - 🌱 I'm currently studying Computer Engineering at Univap and Alura. <a href="https://cursos.alura.com.br/user/rodrigolopes-m2005">
+  - 🌱 I'm currently studying Computer Science at Unifesp and Alura. <a href="https://cursos.alura.com.br/user/rodrigolopes-m2005">
     <img align="center" alt="html5" src="https://imgs.search.brave.com/5z0jG7Fgap8NIbCVZf7wVbWH0kgiuvUcwsT2svUNKzo/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/YWx1cmEuY29tLmJy/L2Fzc2V0cy9pbWcv/Zm9ybWFjYW8vc3Rl/cC1hbHVyYS1tYWlz/LjE2ODY3NDQ4ODEu/c3Zn.svg" width="30" />
 </a>
 
