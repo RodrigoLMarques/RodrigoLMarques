@@ -21,7 +21,7 @@
 <details>
     <summary>👨‍💻 More about me</summary>
 
-   - 💬 I'm 18 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Node.js, Python, AWS, and C++.
+   - 💬 I'm 18 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Java, Node.js, Nest.js, AWS, and C++.
 
    - ⚡ I enjoy reading, whether it's a good fiction or fantasy book, and also watching movies and playing games! I believe that our personal interests contribute to a more nuanced understanding of things and help in problem-solving.
 </details>
@@ -46,7 +46,6 @@
     <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
     <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
           
   </div>
@@ -57,17 +56,15 @@
     <img align="center" alt="NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
     <img align="center" alt="NestJS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
     <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-    <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
     <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> 
     <img align="center" alt="Postgres" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
     <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
     <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <img align="center" alt="Terraform" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-  </div>
+ </div>
 
 
-  
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoLMarques/RodrigoLMarques/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoLMarques/RodrigoLMarques/output/github-contribution-grid-snake.svg">
