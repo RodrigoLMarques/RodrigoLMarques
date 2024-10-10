@@ -19,9 +19,9 @@
 <details>
     <summary>👨‍💻 More about me</summary>
 
-   - 💬 I'm 19 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Node.js, Java, C++ and AWS.
+   - 💬 I'm 19 years old, currently living in Brazil. I'm learning English and entered the world of computing by choosing to pursue high school along with a computer technician program. I have experience in backend development and working with microcontrollers. So far, the main technologies I've used include Node.js, C++, Java and AWS.
 
-   - ⚡ I enjoy reading, whether it's a good fiction, fantasy or classic books, and also watching movies and playing games! I believe that our personal interests contribute to a more nuanced understanding of things and help in problem-solving.
+   - ⚡ I enjoy reading, whether it's a good fiction, fantasy, or classic books, and also playing games, tabletop RPGs, and chess! I believe that our personal interests, like strategic thinking from chess or the creativity from role-playing games and storytelling, contribute to a more nuanced understanding of things and help in problem-solving.
 </details>
 
 <!-- Links -->
