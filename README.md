@@ -10,7 +10,7 @@
 <p>
   Hi 👋, I'm Rodrigo! A passionate software development student from Brazil.
 
-  - 🌱 I'm currently studying Computer Science at [Unifesp](https://portal.unifesp.br/) and <a href="https://cursos.alura.com.br/user/rodrigolopes-m2005">Alura</a>. 
+  - 🌱 I'm currently studying Computer Science at [Unifesp](https://portal.unifesp.br/).
 
   - 🔭 I'm looking for opportunities. My dream is to one day develop solutions that help people with their problems.
 </p>
